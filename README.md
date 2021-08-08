@@ -24,11 +24,13 @@ Running Voila to launch the jupyterlab Notebook in a web window:
 ```python
 voila etf_analyzer.ipynb
 ```
-![Command Input](Voila Command Line.png)
+![Command Input](https://github.com/AndrewAu42/ETF_Analyzer/blob/main/Images/Voila%20Command%20Line.PNG)
 
-![Voila Launching on Terminal](Voila Launching.png)
+![Voila Launching on Terminal](https://github.com/AndrewAu42/ETF_Analyzer/blob/main/Images/Voila%20Launching.PNG)
 
-![Voila Launching on Web Browser](Voila Web Launch Window.png)
+![Voila Launching on Web Browser](https://github.com/AndrewAu42/ETF_Analyzer/blob/main/Images/Voila%20Web%20Launch%20Window.PNG)
+
+Information on the ETF, will appear in the web application and allow you to take a look at the analysis of the provided info to use in making a decision on the analysis
 
 ---
 
